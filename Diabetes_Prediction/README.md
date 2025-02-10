@@ -1,4 +1,5 @@
 In this project, I used a raw dataset to predict whether a person will likely have diabetes based on key health-related features.
+
 Key Steps:
 1. Data Preprocessing:
    Handled categorical data by converting them into numerical values using Ordinal Encoding, One-Hot Encoding, and Label Encoding from sklearn.
