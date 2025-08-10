@@ -1,1 +1,0 @@
-In this project, I performed unsupervised clustering. I did use dimensionality reduction followed by agglomerative clustering. I came up with 5 clusters and further used them in profiling customers in clusters according to their family structures and income/spending. This can be used to plan better marketing strategies.
